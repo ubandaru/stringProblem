@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="32" started-at="2017-04-11T06:44:24Z" finished-at="2017-04-11T06:44:24Z">
+    <groups>
+    </groups>
+    <test name="stringProblemTests" duration-ms="32" started-at="2017-04-11T06:44:24Z" finished-at="2017-04-11T06:44:24Z">
+      <class name="stringtest.MyTest">
+        <test-method status="PASS" signature="validateFirstMethod(char, java.lang.String, java.lang.String)[pri:0, instance:stringtest.MyTest@66048bfd]" name="validateFirstMethod" duration-ms="7" started-at="2017-04-10T23:44:24Z" data-provider="provideData" finished-at="2017-04-10T23:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[r]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[array]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[aay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstMethod -->
+        <test-method status="PASS" signature="validateFirstMethod(char, java.lang.String, java.lang.String)[pri:0, instance:stringtest.MyTest@66048bfd]" name="validateFirstMethod" duration-ms="0" started-at="2017-04-10T23:44:24Z" data-provider="provideData" finished-at="2017-04-10T23:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[s]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[governor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[governor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstMethod -->
+        <test-method status="PASS" signature="validateFirstMethod(char, java.lang.String, java.lang.String)[pri:0, instance:stringtest.MyTest@66048bfd]" name="validateFirstMethod" duration-ms="0" started-at="2017-04-10T23:44:24Z" data-provider="provideData" finished-at="2017-04-10T23:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[r]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rubber]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ubbe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstMethod -->
+        <test-method status="PASS" signature="validateFirstMethod(char, java.lang.String, java.lang.String)[pri:0, instance:stringtest.MyTest@66048bfd]" name="validateFirstMethod" duration-ms="1" started-at="2017-04-10T23:44:24Z" data-provider="provideData" finished-at="2017-04-10T23:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[d]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sweet]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sweet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstMethod -->
+        <test-method status="PASS" signature="validateSecondMethod(char, java.lang.String, java.lang.String)[pri:0, instance:stringtest.MyTest@66048bfd]" name="validateSecondMethod" duration-ms="1" started-at="2017-04-10T23:44:24Z" data-provider="provideData" finished-at="2017-04-10T23:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[r]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[array]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[aay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSecondMethod -->
+        <test-method status="PASS" signature="validateSecondMethod(char, java.lang.String, java.lang.String)[pri:0, instance:stringtest.MyTest@66048bfd]" name="validateSecondMethod" duration-ms="0" started-at="2017-04-10T23:44:24Z" data-provider="provideData" finished-at="2017-04-10T23:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[r]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rubber]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ubbe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSecondMethod -->
+        <test-method status="PASS" signature="validateSecondMethod(char, java.lang.String, java.lang.String)[pri:0, instance:stringtest.MyTest@66048bfd]" name="validateSecondMethod" duration-ms="0" started-at="2017-04-10T23:44:24Z" data-provider="provideData" finished-at="2017-04-10T23:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[s]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[governor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[governor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSecondMethod -->
+        <test-method status="PASS" signature="validateSecondMethod(char, java.lang.String, java.lang.String)[pri:0, instance:stringtest.MyTest@66048bfd]" name="validateSecondMethod" duration-ms="0" started-at="2017-04-10T23:44:24Z" data-provider="provideData" finished-at="2017-04-10T23:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[d]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sweet]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sweet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSecondMethod -->
+      </class> <!-- stringtest.MyTest -->
+    </test> <!-- stringProblemTests -->
+  </suite> <!-- Suite1 -->
+</testng-results>
